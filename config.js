@@ -1,7 +1,7 @@
 module.exports = {
   
-  token: 'NjkzNTIzODc4MzE1Njg3OTM2.Xn-UeQ.iV-839oqBpKe4RWwJouHTDi9d7Y', 
-  clockchannel: '693523513616892027', 
+  token: 'NjkzNTM5NjQ0Mzk0MTc2NTQz.Xn_5RQ.hExeyo-z6J35qWWkxcPxfpagkRA', 
+  clockchannel: '693533177414811730', 
   timezone: 'Asia/Kolkata',
   format: 'HH:mm (z)',
   updateinterval: 60000,
